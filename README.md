@@ -22,7 +22,8 @@ Belajar kelas Memulai Pemrograman dengan Java. (Progres 56%)
 
 Belajar kelas Memulai Pemrograman dengan Java. (Progres 90%)
 
-  * Belajar java
+  * Belajar java dulu bos
+
 
 **20 Juni 2021**  
 
